@@ -1,7 +1,8 @@
-## Classification-through-Apache-Spark-streaming-using-Twitter-data
+## Classification through Apache Spark streaming using Twitter data
 
 
 </br>
+
 ### Table of Contents
 
 
@@ -47,6 +48,11 @@ The task of this assignment was to perform sentiment analysis on stream of tweet
         
 4. Install Apache Spark
 
+        http://apache.mirror.rafal.ca/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz
+        
+        sudo tar zxvfspark-2.3.0-bin-hadoop2.7.tgz
+        
+
 </br>
 
 ### 3. Twitter Tweet Extraction
@@ -62,3 +68,7 @@ For this Assignment we have used **RandomForestClassifier** because from our ana
 </br>
 
 ### 5. Labelling training data
+
+We already received labelled data to train our model. The data is available [here](http://help.sentiment140.com/for-students/). The data is in a CSV format with mostly all the emojis removed. The file has 6 fields and 3 labels. the polarity of the tweet (0 = negative, 2 = neutral, 4 = positive). The data went through a ...
+
+
