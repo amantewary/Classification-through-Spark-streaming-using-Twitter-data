@@ -7,19 +7,19 @@
 
 
 
-**[1. Tool Selection]()**
+**[1. Tool Selection](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#1-tool-selection)**
 
-**[2. Data Loading]()**
+**[2. Data Loading](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#2-data-loading)**
 
-**[3. Data Cleaning]()**
+**[3. Data Cleaning](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#3-data-cleaning)**
 
-**[4. Dashboard]()**
+**[4. Dashboard](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#4-dashboard)**
 
-**[5. Output]()**
+**[5. Output](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#5-output)**
 
-**[6. Code Submission]()**
+**[6. Code Submission](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#6-code-submission)**
 
-**[7. References]()**
+**[7. References](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#7-reference)**
 
 
 
@@ -111,7 +111,7 @@ Solution 5:
 
 </br>
 
-## 5. Output
+### 5. Output
 
 
 **Query 1:**
@@ -151,7 +151,6 @@ Solution 5:
 **[DASHBOARD URL: ](https://app.powerbi.com/view?r=eyJrIjoiYTY0NWQwYjItYjU2MC00OGI1LTlhZDEtZDMxOWM3NzczZjc4IiwidCI6ImQ3OTA5NTVjLTc5MDMtNDc1NC04NDJiLTMyNTAzZDliNmVkYiIsImMiOjEwfQ%3D%3D 
 )**
 
-</br>
 
 ### 7. Reference
 
