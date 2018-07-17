@@ -25,7 +25,7 @@
 
 </br>
 
-## Tool Selection
+### 1. Tool Selection
 
 </br>
 
@@ -34,7 +34,7 @@ In this assignment we were required to analyze and visualize data provided by To
 
 </br>
 
-## Data Loading
+### 2. Data Loading
 
 </br>
 
@@ -58,7 +58,7 @@ Step 3: Inside “dalassign” folder, select “Upload” from toolbar and choo
 
 </br>
 
-## Data Cleaning
+### 3. Data Cleaning
 
 We used Microsoft Visual Studio Code for our data cleaning task.
 
@@ -70,7 +70,7 @@ We used Microsoft Visual Studio Code for our data cleaning task.
 
 </br>
 
-## Dashboard
+### 4. Dashboard
 
 **[URL](https://app.powerbi.com/view?r=eyJrIjoiYTY0NWQwYjItYjU2MC00OGI1LTlhZDEtZDMxOWM3NzczZjc4IiwidCI6ImQ3OTA5NTVjLTc5MDMtNDc1NC04NDJiLTMyNTAzZDliNmVkYiIsImMiOjEwfQ%3D%3D)**
 
@@ -111,7 +111,7 @@ Solution 5:
 
 </br>
 
-## Output
+## 5. Output
 
 
 **Query 1:**
@@ -146,14 +146,14 @@ Solution 5:
 
 
 
-## Code Submission
+### 6. Code Submission
 
 **[DASHBOARD URL: ](https://app.powerbi.com/view?r=eyJrIjoiYTY0NWQwYjItYjU2MC00OGI1LTlhZDEtZDMxOWM3NzczZjc4IiwidCI6ImQ3OTA5NTVjLTc5MDMtNDc1NC04NDJiLTMyNTAzZDliNmVkYiIsImMiOjEwfQ%3D%3D 
 )**
 
 </br>
 
-## Reference
+### 7. Reference
 
 
     [1] City of Toronto, “Open Data Catalogue,” City of Toronto, 13-Jul-2018. [Online]. Available: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#7c8e7c62-7630-8b0f-43ed-a2dfe24aadc9. [Accessed: 17-Jul-2018]
