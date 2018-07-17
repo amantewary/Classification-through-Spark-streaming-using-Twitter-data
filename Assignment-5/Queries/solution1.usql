@@ -1,0 +1,30 @@
+@data =
+    EXTRACT 
+            Tcs int,
+            Main string,
+            Midblock_Route string,
+            Side_1_Route string,
+            Side_2_Route string,
+            Activation_Date DateTime,
+            Latitude double?,
+            Longitude double?,
+            Count_Date DateTime,
+            eight_Peak_Hr_Vehicle_Volume int,
+            eight_Peak_Hr_Pedestrian_Volume int
+    FROM "/dalassign/data.csv"
+    USING Extractors.Csv(encoding: Encoding.UTF8, skipFirstNRows: 1);
+
+OUTPUT @data
+TO "/output/data-usql.csv"
+USING Outputters.Csv(outputHeader: true);
+
+@rs1 =
+    SELECT Main, AVG(eight_Peak_Hr_Vehicle_Volume) AS Average_Volume
+    FROM @data
+    GROUP BY Main
+    ORDER BY Average_Volume DESC
+    OFFSET 0 ROWS;
+
+OUTPUT @rs1
+TO "/output/data-usql-solution1.csv"
+USING Outputters.Csv(outputHeader: true);

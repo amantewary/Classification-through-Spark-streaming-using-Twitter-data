@@ -1,0 +1,35 @@
+@data =
+    EXTRACT 
+            Tcs int,
+            Main string,
+            Midblock_Route string,
+            Side_1_Route string,
+            Side_2_Route string,
+            Activation_Date DateTime,
+            Latitude double?,
+            Longitude double?,
+            Count_Date DateTime,
+            eight_Peak_Hr_Vehicle_Volume int,
+            eight_Peak_Hr_Pedestrian_Volume int
+    FROM "/dalassign/data.csv"
+    USING Extractors.Csv(encoding: Encoding.UTF8, skipFirstNRows: 1);
+
+OUTPUT @data
+TO "/output/data-usql.csv"
+USING Outputters.Csv(outputHeader: true);
+
+@rs1 =
+    SELECT Main, Count_Date.DayOfWeek.ToString("f") AS Day, (eight_Peak_Hr_Vehicle_Volume + eight_Peak_Hr_Pedestrian_Volume) 
+    AS TotalVolume
+    FROM @data;
+    
+@rs2 = SELECT Main, Day, SUM(TotalVolume) AS TotalVol
+    FROM @rs1    
+    GROUP BY Main, Day
+    ORDER BY TotalVol DESC
+    OFFSET 0 ROWS;
+
+
+OUTPUT @rs2
+TO "/output/data-usql-solution5.csv"
+USING Outputters.Csv(outputHeader: true);

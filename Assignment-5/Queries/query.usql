@@ -1,0 +1,19 @@
+@data =
+    EXTRACT 
+            Tcs int,
+            Main string,
+            Midblock_Route string,
+            Side_1_Route string,
+            Side_2_Route string,
+            Activation_Date DateTime,
+            Latitude double?,
+            Longitude double?,
+            Count_Date DateTime,
+            eight_Peak_Hr_Vehicle_Volume int,
+            eight_Peak_Hr_Pedestrian_Volume int
+    FROM "/dalassign/data.csv"
+    USING Extractors.Csv(encoding: Encoding.UTF8, skipFirstNRows: 1);
+
+OUTPUT @data
+TO "/output/data-usql.csv"
+USING Outputters.Csv(outputHeader: true);

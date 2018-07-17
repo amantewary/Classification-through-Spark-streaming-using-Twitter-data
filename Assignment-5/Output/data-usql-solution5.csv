@@ -1,0 +1,665 @@
+"Main","Day","TotalVol"
+" YONGE ST ","Wednesday",648746
+" YONGE ST ","Saturday",516516
+" EGLINTON AVE W ","Monday",423675
+" STEELES AVE W ","Wednesday",405897
+" BAY ST ","Thursday",372938
+" KEELE ST ","Tuesday",338712
+" EGLINTON AVE E ","Monday",336277
+" YONGE ST ","Tuesday",324322
+" SHEPPARD AVE E ","Wednesday",314764
+" KINGSTON RD ","Wednesday",306879
+" BLOOR ST W ","Thursday",305660
+" FINCH AVE E ","Tuesday",298896
+" DUFFERIN ST ","Monday",283527
+" LAWRENCE AVE E ","Tuesday",276350
+" BLOOR ST W ","Wednesday",270943
+" LAWRENCE AVE E ","Monday",264086
+" SHEPPARD AVE E ","Saturday",262818
+" WARDEN AVE ","Tuesday",259577
+" BATHURST ST ","Wednesday",259156
+" FINCH AVE W ","Tuesday",255587
+" BATHURST ST ","Tuesday",244414
+" LAKE SHORE BLVD W ","Wednesday",243879
+" KIPLING AVE ","Tuesday",242536
+" YONGE ST ","Monday",240483
+" EGLINTON AVE E ","Thursday",236118
+" EGLINTON AVE E ","Wednesday",235490
+" KENNEDY RD ","Thursday",229748
+" STEELES AVE E ","Wednesday",228166
+" AVENUE RD ","Thursday",226410
+" WESTON RD ","Thursday",226336
+" BATHURST ST ","Saturday",225735
+" JANE ST ","Thursday",225707
+" JANE ST ","Tuesday",225225
+" STEELES AVE E ","Monday",223904
+" MARKHAM RD ","Saturday",220204
+" ST CLAIR AVE W ","Thursday",219502
+" KINGSTON RD ","Thursday",219323
+" BATHURST ST ","Monday",217823
+" BIRCHMOUNT RD ","Wednesday",216869
+" FINCH AVE W ","Wednesday",214554
+" KING ST W ","Wednesday",213932
+" DUNDAS ST W ","Wednesday",210089
+" VICTORIA PARK AVE ","Wednesday",203861
+" SPADINA AVE ","Saturday",202406
+" LAKE SHORE BLVD W ","Tuesday",201348
+" YORK MILLS RD ","Wednesday",201249
+" LAKE SHORE BLVD W ","Thursday",197546
+" SHEPPARD AVE E ","Tuesday",197253
+" THE QUEENSWAY ","Wednesday",197141
+" DUFFERIN ST ","Tuesday",197071
+" DUNDAS ST W ","Saturday",195138
+" DUFFERIN ST ","Saturday",194674
+" DANFORTH AVE ","Thursday",191884
+" JARVIS ST ","Tuesday",190108
+" BAYVIEW AVE ","Monday",190108
+" STEELES AVE E ","Thursday",188035
+" BRIMLEY RD ","Thursday",185284
+" DUNDAS ST W ","Tuesday",181963
+" SHEPPARD AVE E ","Thursday",180939
+" UNIVERSITY AVE ","Saturday",179039
+" BLOOR ST W ","Tuesday",178145
+" THE QUEENSWAY ","Tuesday",178004
+" DUNDAS ST W ","Thursday",177169
+" DON MILLS RD ","Wednesday",174493
+" LAWRENCE AVE E ","Wednesday",172831
+" EGLINTON AVE W ","Thursday",167705
+" DUNDAS ST W ","Monday",164606
+" BAYVIEW AVE ","Tuesday",162162
+" STEELES AVE E ","Saturday",161389
+" DIXON RD ","Tuesday",161197
+" AVENUE RD ","Tuesday",161163
+" DUFFERIN ST ","Wednesday",160259
+" KINGSTON RD ","Saturday",158768
+" STEELES AVE W ","Monday",156550
+" MARTIN GROVE RD ","Tuesday",156373
+" STEELES AVE W ","Saturday",155786
+" LAWRENCE AVE E ","Thursday",153911
+" MIDLAND AVE ","Wednesday",152953
+" WILSON AVE ","Thursday",151715
+" WILLIAM R ALLEN RD ","Wednesday",150737
+" MCCOWAN RD ","Saturday",150300
+" QUEEN ST W ","Wednesday",149580
+" BAYVIEW AVE ","Thursday",149579
+" FINCH AVE E ","Wednesday",148920
+" EGLINTON AVE W ","Tuesday",148309
+" ISLINGTON AVE ","Tuesday",148225
+" AVENUE RD ","Wednesday",147424
+" ISLINGTON AVE ","Wednesday",146816
+" MARKHAM RD ","Wednesday",146536
+" KEELE ST ","Thursday",145810
+" FINCH AVE W ","Monday",144423
+" SHEPPARD AVE W ","Wednesday",143752
+" ALBION RD ","Wednesday",143656
+" FINCH AVE W ","Thursday",141965
+" STEELES AVE E ","Tuesday",141609
+" CHURCH ST ","Tuesday",141015
+" MORNINGSIDE AVE ","Wednesday",140634
+" DON MILLS RD ","Thursday",140265
+" LAWRENCE AVE W ","Monday",140127
+" ALBION RD ","Tuesday",138158
+" KENNEDY RD ","Tuesday",137252
+" DON MILLS RD ","Tuesday",136500
+" WARDEN AVE ","Wednesday",135796
+" BAYVIEW AVE ","Wednesday",134613
+" UNIVERSITY AVE ","Thursday",134307
+" MARKHAM RD ","Tuesday",134262
+" LAWRENCE AVE W ","Thursday",134046
+" MOUNT PLEASANT RD ","Monday",132987
+" FINCH AVE E ","Saturday",132173
+" ISLINGTON AVE ","Thursday",131105
+" JANE ST ","Monday",130174
+" BAY ST ","Tuesday",130149
+" MCCOWAN RD ","Monday",128283
+" DUNDAS ST E ","Monday",127896
+" SHEPPARD AVE W ","Tuesday",127246
+" VICTORIA PARK AVE ","Tuesday",126949
+" LESLIE ST ","Wednesday",125124
+" DON MILLS RD ","Monday",124976
+" VICTORIA PARK AVE ","Thursday",124920
+" MOUNT PLEASANT RD ","Tuesday",122593
+" ST CLAIR AVE W ","Monday",122212
+" LAWRENCE AVE W ","Wednesday",122181
+" ST CLAIR AVE E ","Saturday",121433
+" WILSON AVE ","Tuesday",121181
+" WESTON RD ","Monday",119883
+" BAY ST ","Wednesday",119873
+" WESTON RD ","Wednesday",117224
+" AVENUE RD ","Monday",116638
+" WARDEN AVE ","Monday",115879
+" LAKE SHORE BLVD W ","Saturday",115339
+" PHARMACY AVE ","Thursday",114649
+" KIPLING AVE ","Wednesday",112231
+" KINGSTON RD ","Monday",110352
+" MCCOWAN RD ","Wednesday",108918
+" BATHURST ST ","Thursday",108158
+" DANFORTH AVE ","Tuesday",108002
+" WESTON RD ","Tuesday",105501
+" ROYAL YORK RD ","Thursday",102601
+" LAKE SHORE BLVD E ","Monday",100944
+" ELLESMERE RD ","Saturday",99152
+" STEELES AVE W ","Tuesday",98891
+" VICTORIA PARK AVE ","Monday",97940
+" DANFORTH RD ","Thursday",97626
+" LESLIE ST ","Monday",96791
+" QUEEN ST E ","Tuesday",95130
+" WILSON AVE ","Saturday",94308
+" ELLESMERE RD ","Monday",94266
+" KIPLING AVE ","Thursday",94229
+" ELLESMERE RD ","Tuesday",93567
+" LESLIE ST ","Saturday",93220
+" PHARMACY AVE ","Tuesday",92983
+" FINCH AVE E ","Monday",92760
+" REXDALE BLVD ","Thursday",92089
+" BLOOR ST W ","Monday",91840
+" KENNEDY RD ","Saturday",91692
+" LAWRENCE AVE E ","Saturday",90203
+" JANE ST ","Wednesday",88827
+" THE QUEENSWAY ","Thursday",88284
+" COLLEGE ST ","Tuesday",86302
+" EGLINTON AVE E ","Tuesday",86082
+" DANFORTH AVE ","Wednesday",84979
+" EGLINTON AVE W ","Wednesday",84031
+" ISLINGTON AVE ","Saturday",83981
+" EGLINTON AVE E ","Saturday",80827
+" THE QUEENSWAY ","Monday",80686
+" LAWRENCE AVE W ","Tuesday",80613
+" KINGSTON RD ","Tuesday",80346
+" EGLINTON AVE W ","Saturday",79827
+" BLACK CREEK DR ","Wednesday",79080
+" COLLEGE ST ","Saturday",78752
+" GERRARD ST E ","Wednesday",78226
+" SHERBOURNE ST ","Wednesday",78028
+" RENFORTH DR ","Thursday",77871
+" O CONNOR DR ","Wednesday",77871
+" O CONNOR DR ","Saturday",77477
+" MCCOWAN RD ","Thursday",76995
+" LAKE SHORE BLVD W ","Monday",76855
+" HIGHWAY 27 ","Tuesday",75773
+" KING ST W ","Thursday",74977
+" FINCH AVE E ","Thursday",74220
+" BLOOR ST E ","Saturday",73291
+" ST CLAIR AVE W ","Wednesday",72908
+" QUEEN ST E ","Wednesday",72199
+" LESLIE ST ","Tuesday",71924
+" BLOOR ST E ","Thursday",71306
+" CHURCH ST ","Wednesday",69804
+" DANFORTH AVE ","Saturday",69478
+" O CONNOR DR ","Monday",68979
+" KEELE ST ","Wednesday",68387
+" ST CLAIR AVE E ","Wednesday",67768
+" KENNEDY RD ","Wednesday",66139
+" BURNHAMTHORPE RD ","Monday",65723
+" QUEEN ST E ","Saturday",65562
+" BRIMLEY RD ","Monday",65324
+" DAVENPORT RD ","Monday",65311
+" KEELE ST ","Monday",65220
+" YONGE ST ","Thursday",64625
+" NEILSON RD ","Thursday",64562
+" WILSON AVE ","Monday",64506
+" STEELES AVE W ","Friday",64424
+" COLLEGE ST ","Monday",64347
+" BURNHAMTHORPE RD ","Wednesday",62775
+" DAVENPORT RD ","Thursday",62421
+" LESLIE ST ","Thursday",61904
+" MARTIN GROVE RD ","Monday",61573
+" KING ST E ","Tuesday",61080
+" SHEPPARD AVE E ","Monday",60796
+" DIXON RD ","Saturday",60595
+" KENNEDY RD ","Monday",60588
+" GERRARD ST E ","Tuesday",60099
+" MORNINGSIDE AVE ","Monday",60034
+" WILLIAM R ALLEN RD ","Tuesday",59887
+" QUEEN ST W ","Tuesday",58971
+" YORK ST ","Wednesday",58712
+" SHEPPARD AVE W ","Thursday",58633
+" DANFORTH RD ","Wednesday",56540
+" QUEEN ST W ","Thursday",56044
+" ELLESMERE RD ","Wednesday",55977
+" MIDLAND AVE ","Saturday",55127
+" O CONNOR DR ","Tuesday",55036
+" DUNDAS ST E ","Thursday",54464
+" STEELES AVE W ","Thursday",54308
+" THE EAST MALL ","Tuesday",54118
+" QUEENS QUAY W ","Wednesday",53710
+" SPADINA AVE ","Tuesday",53656
+" RICHMOND ST W ","Tuesday",51666
+" MCNICOLL AVE ","Thursday",51588
+" NEILSON RD ","Saturday",51458
+" QUEENS PARK CRES E ","Wednesday",51441
+" KIPLING AVE ","Monday",51306
+" YORK ST ","Tuesday",50532
+" BURNHAMTHORPE RD ","Tuesday",50369
+" HIGHWAY 27 ","Wednesday",50335
+" VICTORIA PARK AVE ","Saturday",50181
+" PROGRESS AVE ","Monday",49663
+" PHARMACY AVE ","Monday",49341
+" DUPONT ST ","Saturday",49285
+" MIDLAND AVE ","Tuesday",48508
+" QUEEN ST E ","Thursday",48027
+" WARDEN AVE ","Saturday",47369
+" GERRARD ST E ","Thursday",46880
+" QUEEN ST E ","Monday",46671
+" SPADINA RD ","Thursday",46251
+" HIGHWAY 27 ","Thursday",45489
+" GERRARD ST E ","Monday",44900
+" BAYVIEW AVE ","Saturday",44873
+" SPADINA AVE ","Wednesday",44682
+" LAKE SHORE BLVD E ","Wednesday",44416
+" SCARLETT RD ","Tuesday",43365
+" FRONT ST W ","Tuesday",42641
+" KING ST W ","Saturday",42592
+" COXWELL AVE ","Monday",42588
+" ST CLAIR AVE E ","Thursday",42508
+" ALBION RD ","Saturday",42329
+" PHARMACY AVE ","Saturday",42245
+" COXWELL AVE ","Thursday",41887
+" EASTERN AVE ","Monday",41818
+" PARK LAWN RD ","Thursday",41564
+" COLLEGE ST ","Thursday",40226
+" LAIRD DR ","Saturday",39086
+" DANFORTH RD ","Saturday",39071
+" ORIOLE PKWY ","Wednesday",38568
+" JARVIS ST ","Saturday",38242
+" BROADVIEW AVE ","Tuesday",38168
+" DUPONT ST ","Thursday",38062
+" ISLINGTON AVE ","Monday",37973
+" DIXON RD ","Monday",37841
+" BLOOR ST ","Thursday",37733
+" ADELAIDE ST E ","Tuesday",37282
+" DANFORTH AVE ","Monday",36808
+" OVERLEA BLVD ","Wednesday",36711
+" UNIVERSITY AVE ","Monday",36542
+" ANNETTE ST ","Thursday",36316
+" SHEPPARD AVE W ","Monday",35161
+" UNIVERSITY AVE ","Wednesday",34734
+" ADELAIDE ST W ","Tuesday",34437
+" SHEPPARD AVE W ","Saturday",34433
+" ADELAIDE ST W ","Thursday",34170
+" REXDALE BLVD ","Friday",33699
+" BIRCHMOUNT RD ","Tuesday",33490
+" PHARMACY AVE ","Wednesday",33422
+" PARLIAMENT ST ","Saturday",33163
+" FRONT ST W ","Wednesday",32878
+" DORIS AVE ","Thursday",32873
+" HARBORD ST ","Wednesday",32856
+" BIRCHMOUNT RD ","Saturday",32655
+" WYNFORD DR ","Tuesday",32627
+" ROYAL YORK RD ","Tuesday",32179
+" PROGRESS AVE ","Tuesday",31833
+" ST GEORGE ST ","Wednesday",31594
+" BRIMLEY RD ","Wednesday",31333
+" SHERBOURNE ST ","Tuesday",31212
+" MOUNT PLEASANT RD ","Saturday",31177
+" FRONT ST W ","Monday",30998
+" LAKE SHORE BLVD E ","Thursday",30651
+" PARKSIDE DR ","Wednesday",30555
+" ST CLAIR AVE W ","Saturday",30346
+" BROADVIEW AVE ","Monday",29716
+" HARBORD ST ","Thursday",29463
+" MOUNT PLEASANT RD ","Thursday",29289
+" JARVIS ST ","Wednesday",29197
+" MIDDLEFIELD RD ","Wednesday",28921
+" FAIRVIEW MALL DR ","Wednesday",28841
+" CHURCH ST ","Thursday",28820
+" OSSINGTON AVE ","Thursday",28789
+" LAWRENCE AVE W ","Friday",28771
+" CHERRY ST ","Monday",28616
+" MARTIN GROVE RD ","Thursday",28598
+" PARLIAMENT ST ","Tuesday",28490
+" BLACK CREEK DR ","Monday",28148
+" EVANS AVE ","Thursday",28136
+" MORNINGSIDE AVE ","Saturday",28107
+" KING ST E ","Wednesday",27642
+" EASTERN AVE ","Saturday",27585
+" FINCH AVE W ","Friday",27468
+" DAVENPORT RD ","Wednesday",27365
+" LAIRD DR ","Thursday",27272
+" BLOOR ST W ","Saturday",27099
+" WILLOWDALE AVE ","Monday",27055
+" MARLEE AVE ","Tuesday",26946
+" SIMCOE ST ","Thursday",26902
+" OVERLEA BLVD ","Thursday",26746
+" PROGRESS AVE ","Wednesday",26693
+" CALEDONIA RD ","Monday",26578
+" SPADINA AVE ","Monday",26308
+" DUNDAS ST E ","Tuesday",26276
+" BEECROFT RD ","Thursday",26060
+" PROGRESS AVE ","Thursday",26043
+" WOODBINE AVE ","Thursday",25745
+" RICHMOND ST E ","Tuesday",25545
+" MILNER AVE ","Tuesday",25470
+" O CONNOR DR ","Thursday",25310
+" WILSON HEIGHTS BLVD ","Thursday",25174
+" EVANS AVE ","Wednesday",25011
+" PARLIAMENT ST ","Wednesday",24765
+" LAKE SHORE BLVD E ","Saturday",24630
+" MILLWOOD RD ","Thursday",24589
+" BROADVIEW AVE ","Wednesday",24501
+" CUMMER AVE ","Thursday",24413
+" JANE ST ","Saturday",24401
+" EVANS AVE ","Tuesday",24251
+" HIGHWAY 27 ","Saturday",24150
+" KIPLING AVE ","Friday",24084
+" DUPONT ST ","Wednesday",24076
+" PARK HOME AVE ","Monday",24062
+" BRIMLEY RD ","Saturday",24059
+" MILLWOOD RD ","Saturday",23982
+" WELLINGTON ST W ","Thursday",23656
+" ADELAIDE ST W ","Wednesday",23255
+" PARKWOODS VILLAGE DR ","Tuesday",23215
+" ELLESMERE RD ","Thursday",23184
+" MCNICOLL AVE ","Wednesday",23146
+" MARTIN GROVE RD ","Saturday",23101
+" WYNFORD DR ","Monday",23083
+" BRIMLEY RD ","Tuesday",23064
+" THE WEST MALL ","Tuesday",22884
+" MAIN ST ","Saturday",22748
+" HARBORD ST ","Tuesday",22734
+" CHURCH ST ","Saturday",22720
+" QUEENS PARK ","Thursday",22654
+" YONGE ST ","Friday",22586
+" ALNESS ST ","Tuesday",22426
+" VICTORIA ST ","Thursday",22356
+" ADELAIDE ST E ","Thursday",22160
+" YORK BLVD ","Tuesday",22023
+" CALEDONIA RD ","Tuesday",21949
+" REXDALE BLVD ","Saturday",21826
+" QUEEN ST W ","Saturday",21094
+" LANSDOWNE AVE ","Saturday",21008
+" BLACK CREEK DR ","Thursday",20790
+" THE POND RD ","Wednesday",20784
+" BURNHAMTHORPE RD ","Saturday",20765
+" PAPE AVE ","Saturday",20667
+" QUEENS QUAY W ","Thursday",20595
+" NEILSON RD ","Wednesday",20592
+" CASTLEFIELD AVE ","Monday",20314
+" KING ST ","Saturday",20293
+" REXDALE BLVD ","Wednesday",20262
+" AVENUE RD ","Saturday",19969
+" ROGERS RD ","Monday",19955
+" ROGERS RD ","Saturday",19834
+" ROGERS RD ","Wednesday",19642
+" MCNICOLL AVE ","Tuesday",19624
+" EASTERN AVE ","Tuesday",19550
+" DON MILLS RD W ","Wednesday",19459
+" DONLANDS AVE ","Saturday",19156
+" BROWNS LINE ","Thursday",19116
+" OLD WESTON RD ","Thursday",18623
+" PARLIAMENT ST ","Thursday",18542
+" RENFORTH DR ","Wednesday",18498
+" DUNDAS ST E ","Saturday",18364
+" SPADINA RD ","Tuesday",18236
+" DUFFERIN ST ","Thursday",18236
+" QUEENS QUAY W ","Tuesday",18156
+" ROGERS RD ","Tuesday",17979
+" KIPLING AVE ","Saturday",17953
+" YORKDALE RD ","Wednesday",17950
+" CALEDONIA RD ","Wednesday",17908
+" MORTIMER AVE ","Saturday",17880
+" CHURCH ST ","Monday",17848
+" SCARBOROUGH GOLF CLUB RD ","Wednesday",17753
+" BROWNS LINE ","Tuesday",17657
+" LOWER JARVIS ST ","Tuesday",17635
+" QUEENS PARK CRES W ","Tuesday",17479
+" BATHURST ST ","Sunday",17461
+" GERRARD ST W ","Wednesday",17359
+" SHERBOURNE ST ","Thursday",17294
+" MARKHAM RD ","Monday",17006
+" DAVENPORT RD ","Saturday",16989
+" TAPSCOTT RD ","Wednesday",16860
+" MIDLAND AVE ","Monday",16723
+" EASTERN AVE ","Wednesday",16697
+" TRETHEWEY DR ","Tuesday",16600
+" NEILSON RD ","Tuesday",16583
+" THE WEST MALL ","Saturday",16493
+" RICHMOND ST E ","Monday",16387
+" PORT UNION RD ","Thursday",16261
+" ST CLAIR AVE W ","Tuesday",16199
+" TRETHEWEY DR ","Monday",16082
+" BROWNS LINE ","Saturday",15926
+" FINCH AVE W ","Saturday",15923
+" HARBOUR ST ","Tuesday",15905
+" DOVERCOURT RD ","Saturday",15768
+" SHUTER ST ","Tuesday",15621
+" WOODBINE AVE ","Saturday",15374
+" ORIOLE PKWY ","Monday",15271
+" DOVERCOURT RD ","Thursday",15256
+" MOUNT PLEASANT RD ","Wednesday",15238
+" SPADINA CRES ","Thursday",15197
+" THE WEST MALL ","Monday",15120
+" CARLINGVIEW DR ","Thursday",15046
+" YORK MILLS RD ","Tuesday",15004
+" JARVIS ST ","Thursday",14859
+" ALBION RD ","Monday",14758
+" OAKWOOD AVE ","Tuesday",14757
+" THE WEST MALL ","Thursday",14650
+" RATHBURN RD ","Monday",14541
+" DIXON RD ","Thursday",14289
+" CARLTON ST ","Monday",14277
+" PORT UNION RD ","Monday",14275
+" RICHMOND ST W ","Wednesday",14248
+" MARLEE AVE ","Monday",14229
+" PARK LAWN RD ","Tuesday",14100
+" PARKSIDE DR ","Monday",14076
+" YORKDALE RD ","Monday",14052
+" EVANS AVE ","Saturday",13968
+" DUPONT ST ","Monday",13871
+" ROGERS RD ","Thursday",13863
+" LAWRENCE AVE W ","Saturday",13721
+" QUEENS PARK CRES E ","Tuesday",13644
+" DONLANDS AVE ","Tuesday",13549
+" FRONT ST E ","Tuesday",13530
+" SIMCOE ST ","Monday",13527
+" MILLWICK DR ","Tuesday",13487
+" WESTON RD ","Friday",13449
+" PARKSIDE DR ","Saturday",13415
+" COXWELL AVE ","Saturday",13332
+" DORIS AVE ","Wednesday",13319
+" OAKWOOD AVE ","Thursday",13287
+" BIRCHMOUNT RD ","Thursday",13199
+" WELLINGTON ST W ","Monday",13191
+" DORIS AVE ","Monday",13185
+" IAN MACDONALD BLVD ","Wednesday",13137
+" EGLINTON AVE E ","Friday",13125
+" DANFORTH RD ","Friday",13081
+" DONLANDS AVE ","Thursday",13051
+" STRACHAN AVE ","Thursday",12996
+" OSSINGTON AVE ","Tuesday",12903
+" SPADINA AVE ","Friday",12902
+" THE WESTWAY ","Tuesday",12860
+" WILLOWDALE AVE ","Wednesday",12531
+" LANSDOWNE AVE ","Monday",12476
+" SHERBOURNE ST ","Saturday",12471
+" LESLIE ST ","Friday",12424
+" FRONT ST E ","Wednesday",12337
+" RATHBURN RD ","Wednesday",12329
+" BELLAMY RD N ","Tuesday",12278
+" YORKDALE RD ","Saturday",12265
+" LAKE SHORE BLVD W ","Friday",12247
+" FRONT ST E ","Thursday",12244
+" PORT UNION RD ","Tuesday",12224
+" KING ST W ","Monday",12136
+" CLONMORE DR ","Wednesday",12124
+" ADELAIDE ST E ","Wednesday",12095
+" EVANS AVE ","Monday",12094
+" MCLEVIN AVE ","Thursday",12022
+" LAKE SHORE BLVD E ","Tuesday",11863
+" BELLAMY RD N ","Wednesday",11842
+" THE POND RD ","Thursday",11819
+" ST GEORGE ST ","Tuesday",11789
+" CALEDONIA RD ","Thursday",11723
+" BERMONDSEY RD ","Monday",11615
+" SHOREHAM DR ","Wednesday",11599
+" BRENTCLIFFE RD ","Wednesday",11551
+" ROYAL YORK RD ","Monday",11517
+" STRACHAN AVE ","Wednesday",11511
+" MCLEVIN AVE ","Monday",11486
+" MARTIN GROVE RD ","Wednesday",11472
+" BAY ST ","Monday",11424
+" DAVENPORT RD ","Tuesday",11393
+" NORTH QUEEN ST ","Thursday",11385
+" NORTH QUEEN ST ","Monday",11349
+" SCARLETT RD ","Saturday",11072
+" GREENWOOD AVE ","Monday",11060
+" OAK ST ","Wednesday",11027
+" QUEEN ST W ","Monday",10992
+" HUMBER COLLEGE BLVD ","Tuesday",10936
+" ST GEORGE ST ","Monday",10891
+" CHESSWOOD DR ","Thursday",10812
+" RONCESVALLES AVE ","Monday",10754
+" YORKLAND RD ","Monday",10740
+" RENFORTH DR ","Tuesday",10695
+" PAPE AVE ","Thursday",10647
+" WELLESLEY ST E ","Wednesday",10627
+" DREWRY AVE ","Wednesday",10619
+" SOUTH KINGSWAY ","Tuesday",10550
+" CONSUMERS RD ","Wednesday",10305
+" KEELE ST ","Saturday",10284
+" ALNESS ST ","Monday",10181
+" NORTH QUEEN ST ","Tuesday",10172
+" HUMBER COLLEGE BLVD ","Wednesday",10137
+" WILLOWDALE AVE ","Thursday",10116
+" YORKDALE 401 ALLEN N RAMP ","Thursday",10027
+" SIGNET DR ","Thursday",9932
+" DON MILLS RD E ","Thursday",9790
+" MCNICOLL AVE ","Monday",9766
+" HOSKIN AVE ","Monday",9719
+" SHERWAY GARDENS RD ","Tuesday",9713
+" WILMINGTON AVE ","Tuesday",9708
+" LOWER SHERBOURNE ST ","Wednesday",9655
+" MEADOWVALE RD ","Wednesday",9618
+" OAKWOOD AVE ","Wednesday",9481
+" LUMSDEN AVE ","Thursday",9475
+" CONSILIUM PL ","Thursday",9442
+" MILITARY TRL ","Wednesday",9365
+" ALLIANCE AVE ","Thursday",9278
+" WICKSTEED AVE ","Tuesday",9275
+" THE EAST MALL ","Monday",9190
+" CUMMER AVE ","Wednesday",9132
+" DANFORTH RD ","Monday",9062
+" FENMAR DR ","Monday",9022
+" WELLESLEY ST E ","Tuesday",8997
+" SOUTHVALE DR ","Saturday",8991
+" SENTINEL RD ","Wednesday",8961
+" HORNER AVE ","Tuesday",8924
+" TAPSCOTT RD ","Tuesday",8896
+" CHAPLIN CRES ","Monday",8872
+" BEECROFT RD ","Wednesday",8866
+" GREENWOOD AVE ","Tuesday",8841
+" GATEWAY BLVD ","Tuesday",8763
+" CHRISTIE ST ","Monday",8745
+" DONLANDS AVE ","Monday",8705
+" MIDDLEFIELD RD ","Thursday",8673
+" TRETHEWEY DR ","Thursday",8633
+" CARLINGVIEW DR ","Wednesday",8629
+" MORTIMER AVE ","Wednesday",8528
+" BREMNER BLVD ","Wednesday",8482
+" SCARLET RD ","Tuesday",8476
+" MEADOWVALE RD ","Thursday",8471
+" ANNETTE ST ","Monday",8470
+" QUEENS QUAY E ","Monday",8464
+" BIRCHMOUNT RD ","Monday",8462
+" DUPLEX AVE ","Wednesday",8457
+" BROADVIEW AVE ","Thursday",8455
+" HUNTINGWOOD DR ","Monday",8440
+" DAWES RD ","Monday",8431
+" DAWES RD ","Thursday",8420
+" ASHTONBEE RD ","Monday",8370
+" DON MILLS RD E ","Monday",8329
+" HALLAM ST ","Thursday",8325
+" MORNINGSIDE AVE ","Tuesday",8313
+" BERMONDSEY RD ","Tuesday",8308
+" ANNETTE ST ","Tuesday",8273
+" HUMBERWOOD BLVD ","Monday",8264
+" COSBURN AVE ","Thursday",8259
+" THE WESTWAY ","Wednesday",8214
+" PASSMORE AVE ","Saturday",8202
+" MARKHAM RD ","Thursday",8186
+" ESTHER SHINER BLVD ","Monday",8059
+" RONCESVALLES AVE ","Thursday",8054
+" DAWES RD ","Wednesday",7998
+" GUILDWOOD PKWY ","Thursday",7989
+" THE WESTWAY ","Thursday",7969
+" GARDINER E PARK LAWN RD RAMP ","Tuesday",7957
+" FORT YORK BLVD ","Wednesday",7924
+" OLD WESTON RD ","Tuesday",7918
+" RUNNYMEDE RD ","Thursday",7913
+" CORPORATE DR ","Wednesday",7907
+" LOWER SIMCOE ST ","Monday",7826
+" MEADOWVALE RD ","Sunday",7809
+" OAKDALE RD ","Tuesday",7787
+" BELFIELD RD ","Wednesday",7702
+" HUMBER COLLEGE BLVD ","Monday",7671
+" SENTINEL RD ","Thursday",7664
+" MILNER AVE ","Wednesday",7569
+" THE DONWAY W ","Tuesday",7564
+" THE EAST MALL ","Wednesday",7499
+" RIVER ST ","Monday",7494
+" LANSDOWNE AVE ","Thursday",7372
+" WILLIAM KITCHEN RD ","Monday",7317
+" INGRAM DR ","Thursday",7307
+" BELLAMY RD N ","Monday",7253
+" KING ST E ","Monday",7221
+" WINDERMERE AVE ","Thursday",7122
+" GATEWAY BLVD ","Monday",7117
+" CARLTON ST ","Tuesday",7115
+" COMSTOCK RD ","Monday",7062
+" BREMNER BLVD ","Monday",7045
+" DUPLEX AVE ","Monday",7033
+" ATTWELL DR ","Monday",6998
+" ST DENNIS DR ","Tuesday",6903
+" WARDEN AVE ","Thursday",6878
+" HORNER AVE ","Wednesday",6876
+" QUEENS QUAY E ","Wednesday",6859
+" VAUGHAN RD ","Wednesday",6836
+" TAPSCOTT RD ","Monday",6827
+" MCCOWAN RD ","Tuesday",6698
+" SIGNET DR ","Tuesday",6679
+" POYNTZ AVE ","Tuesday",6514
+" BONIS AVE ","Thursday",6411
+" QUEENS PLATE DR ","Thursday",6407
+" MCLEVIN AVE ","Wednesday",6237
+" CORPORATE DR ","Monday",6232
+" SIGNET DR ","Wednesday",6206
+" SCARBOROUGH GOLF CLUB RD ","Tuesday",6204
+" VAUGHAN RD ","Tuesday",6161
+" OLD KINGSTON RD ","Wednesday",6155
+" MEADOWVALE RD ","Tuesday",6129
+" MILNER AVE ","Monday",6126
+" RICHMOND ST W ","Monday",5992
+" LUMSDEN AVE ","Tuesday",5969
+" MORTIMER AVE ","Monday",5963
+" SEWELLS RD ","Wednesday",5907
+" RANEE AVE ","Wednesday",5900
+" BRITISH COLUMBIA RD ","Tuesday",5861
+" LUMSDEN AVE ","Wednesday",5832
+" MILLWOOD RD ","Tuesday",5787
+" BRIDLETOWNE CRCL ","Wednesday",5659
+" BELLAMY RD N ","Thursday",5442
+" SCARBOROUGH GOLF CLUB RD ","Thursday",5405
+" KING ST E ","Thursday",5363
+" COMMISSIONERS ST ","Monday",5337
+" LEBOVIC AVE ","Thursday",5276
+" OLD KINGSTON RD ","Monday",5017
+" RANEE AVE ","Monday",5002
+" TALBOT RD ","Tuesday",4998
+" FAIRVIEW MALL DR ","Monday",4893
+" COMMISSIONERS ST ","Wednesday",4771
+" CARLINGVIEW DR ","Saturday",4742
+" TORO RD ","Wednesday",4682
+" GRANTBROOK ST ","Wednesday",4523
+" BAMBURGH CRCL ","Monday",4460
+" GUNNS RD ","Wednesday",4416
+" DWIGHT AVE ","Wednesday",4301
+" SANDHURST CRCL ","Tuesday",4253
+" MURRAY ROSS PKWY ","Monday",3941
+" ORTON PARK RD ","Thursday",3615
+" SHAW ST ","Thursday",3555
+" DWIGHT AVE ","Thursday",3551
+" TANGIERS RD ","Thursday",3039
+" BRENYON WAY ","Thursday",2831
+" ZOO RD ","Sunday",1998
+" PRINCES BLVD ","Tuesday",1518
+" OLD FINCH AVE ","Thursday",1081
