@@ -116,43 +116,49 @@ Solution 5:
 
 **Query 1:**
 
-    Values ranged from 1,081 (OLD FINCH AVE) to 29,797 (WILLIAM R ALLEN RD). The average volume of traffic decreased by 96% over the
-    course of series, decreasing mainly in the final 133 streets. The largest single decline on a percentage basis occured in OLD FINCH
-    AVE (-27%). However, the largest single decline on an absolute basis occured in STEELES AVE E (-4,343).
+    Values ranged from 1,081 (OLD FINCH AVE) to 29,797 (WILLIAM R ALLEN RD). 
+    The average volume of traffic decreased by 96% over the
+    course of series, decreasing mainly in the final 133 streets. 
+    The largest single decline on a percentage basis occured in OLD FINCH AVE (-27%). 
+    However, the largest single decline on an absolute basis occured in STEELES AVE E (-4,343).
 
 </br>
 
 **Query 2:**
 
-    The minimum value is 584,742 (KEELE ST) and the maximum is 1.4 Million (rounded), a difference of 783,067. The distribution is
-    positively skewed as the average of 815,138 is much greater than the median of 804,398. The total volume of traffic is fairly 
-    evenly distributed across all the streets.
+    The minimum value is 584,742 (KEELE ST) and the maximum is 1.4 Million (rounded), a difference of 783,067. 
+    The distribution is positively skewed as the average of 815,138 is much greater than the median of 804,398. 
+    The total volume of traffic is fairly evenly distributed across all the streets.
 
 </br>
 
 **Query 3:**
 
-    Average of total volume of traffic is 2.9 million in 14 years. The minimum value is 28,616 (2006) and the maximum is 10.6 million
-    (2016). Total Volume of traffic fell 98% over the course of all the series but increased in the final year. The largest single
-    decline on a percentage basis occured in 2007 (-87%). However, the largest single decline on an absolute basis occured in 2015 (-5.3
-    million).
+    Average of total volume of traffic is 2.9 million in 14 years. 
+    The minimum value is 28,616 (2006) and the maximum is 10.6 million (2016). 
+    Total Volume of traffic fell 98% over the course of all the series but increased in the final year. 
+    The largest single decline on a percentage basis occured in 2007 (-87%). 
+    However, the largest single decline on an absolute basis occured in 2015 (-5.3 million).
 
 </br>
 
 **Query 4:**
 
-    The average of total volume of traffic is 5.8 million across all seven days. The distribution ranges from 27,268 (Sunday) to 10.1
-    million (Wednesday), a difference of almost 10.1 million. Total volume of traffic is somewhat concentrated with four of the seven
+    The average of total volume of traffic is 5.8 million across all seven days. 
+    The distribution ranges from 27,268 (Sunday) to 10.1
+    million (Wednesday), a difference of almost 10.1 million. 
+    Total volume of traffic is somewhat concentrated with four of the seven
     days (57%) representing 85% of the total.
 
 </br>
 
 **Query 5:**
 
-    The busiest day of the week is Wednesday. For Wednesday, the distribution ranges from 4,301 (DWIGHT AVE) to 648746 (YOUNGE ST), 
-    a difference of 644,445. The distribution is positively skewed as the average of 70,139 is much greater than the median 0f 27,504.
-    Wednesday is somewhat concentrated with 46 of 144 streets (32%) representing 80% of the total. YOUNGE ST (648,756) is more than nine
-    times bigger than the average across the 144 streets.
+    The busiest day of the week is Wednesday. For Wednesday, the distribution ranges 
+    from 4,301 (DWIGHT AVE) to 648746 (YOUNGE ST), a difference of 644,445. 
+    The distribution is positively skewed as the average of 70,139 is much greater than the median 0f 27,504.
+    Wednesday is somewhat concentrated with 46 of 144 streets (32%) representing 80% of the total. 
+    YOUNGE ST (648,756) is more than nine times bigger than the average across the 144 streets.
 
 </br>
 
