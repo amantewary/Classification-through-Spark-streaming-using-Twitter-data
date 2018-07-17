@@ -173,8 +173,10 @@ Solution 5:
 ### 7. Reference
 
 
-    [1] City of Toronto, “Open Data Catalogue,” City of Toronto, 13-Jul-2018. [Online]. Available: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#7c8e7c62-7630-8b0f-43ed-a2dfe24aadc9. [Accessed: 17-Jul-2018]
+    [1] City of Toronto, “Open Data Catalogue,” City of Toronto, 13-Jul-2018. [Online]. 
+    Available: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#7c8e7c62-7630-8b0f-43ed-a2dfe24aadc9. [Accessed: 17-Jul-2018]
 
-    [2] MikeRys, “U-SQL Language Reference,” About Processes and Threads (Windows). [Online]. Available: https://msdn.microsoft.com/en-us/azure/data-lake-analytics/u-sql/u-sql-language-reference. [Accessed: 17-Jul-2018]
+    [2] MikeRys, “U-SQL Language Reference,” About Processes and Threads (Windows). [Online]. 
+    Available: https://msdn.microsoft.com/en-us/azure/data-lake-analytics/u-sql/u-sql-language-reference. [Accessed: 17-Jul-2018]
 
 
