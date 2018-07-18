@@ -11,7 +11,7 @@
 
 **[2. Data Loading](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#2-data-loading)**
 
-**[3. Data Cleaning](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#3-data-cleaning)**
+**[3. Dataset Manipulation](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#3-data-cleaning)**
 
 **[4. Dashboard](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data/tree/master/Assignment-5#4-dashboard)**
 
@@ -58,7 +58,7 @@ Step 3: Inside “dalassign” folder, select “Upload” from toolbar and choo
 
 </br>
 
-### 3. Data Cleaning
+### 3. Data Manipulation
 
 We used Microsoft Visual Studio Code for our data cleaning task.
 
