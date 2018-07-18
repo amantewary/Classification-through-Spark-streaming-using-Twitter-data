@@ -60,7 +60,7 @@ Step 3: Inside “dalassign” folder, select “Upload” from toolbar and choo
 
 ### 3. Data Manipulation
 
-We used Microsoft Visual Studio Code for our data cleaning task.
+We didn’t carried out any data cleaning steps. However, we had to carry out following steps to avoid syntax errors in U-SQL.
 
 <ol>
     <li>In our raw data, one of the field was TCS #. We converted it from all uppercase to title-case as in U-SQL column names cannot be all uppercase. </li>
