@@ -58,7 +58,7 @@ Step 3: Inside “dalassign” folder, select “Upload” from toolbar and choo
 
 </br>
 
-### 3. Data Manipulation
+### 3. Dataset Manipulation
 
 We didn’t carried out any data cleaning steps. However, we had to carry out following steps to avoid syntax errors in U-SQL.
 
