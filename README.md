@@ -2,29 +2,6 @@
 
 ---
 
-## Table of Content
-
----
-
-**[1. Objective](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#objective)**
-
-**[2. Task Description](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#task-description)**
-
-**[3. Twitter Tweet Extraction](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#twitter-tweet-extraction)**
-
-**[4. Sentiment Analysis Algorithm](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#sentiment-analysis-algorithm)**
-
-**[5. Labeling Training Data](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#labeling-training-data)**
-
-**[6. Feature Selection](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#feature-selection)**
-
-**[7. Output](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#output)**
-
-**[8. Code Submission](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#code-submission)**
-
-**[9. References](https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data#references)**
-
-
 ## Objective
 
 ---
