@@ -78,18 +78,4 @@ The result after the completion of sentiment analysis is stored in a csv file co
 
 ![Output Image](https://res.cloudinary.com/dalcc/image/upload/v1529866614/Screen_Shot_2018-06-23_at_8.24.38_PM.png)
 
-## Code Submission
-
----
-
-Link to GitHub Repo: https://github.com/amantewary/Classification-through-Spark-streaming-using-Twitter-data 
-
-## References
-
----
-
-[1] "tweepy/tweepy", GitHub, 2018. [Online]. Available: https://github.com/tweepy/tweepy. [Accessed: 24- Jun- 2018]
-
-[2] "For Academics - Sentiment140 - A Twitter Sentiment Analysis Tool", Help.sentiment140.com, 2018. [Online]. Available: http://help.sentiment140.com/for-students/. [Accessed: 24- Jun- 2018]
-
 
